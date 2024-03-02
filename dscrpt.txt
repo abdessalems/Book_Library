@@ -1,0 +1,19 @@
+
+Description Générale :
+
+Cette application backend offre une plateforme de gestion de livres permettant aux utilisateurs de créer, stocker, mettre à jour et supprimer des informations sur des livres. En plus de la gestion des livres, l'application fournit également des fonctionnalités de gestion des utilisateurs, notamment l'inscription et la connexion sécurisée.
+
+Fonctionnalités Principales :
+
+Gestion des Livres :
+
+Création de Livre : Permet aux utilisateurs d'ajouter de nouveaux livres en fournissant des détails tels que le titre, l'auteur, l'année et une éventuelle URL de la photo.
+Récupération des Livres : Offre la possibilité aux utilisateurs de consulter une liste complète de tous les livres présents dans la base de données.
+Récupération du Livre par ID : Permet aux utilisateurs de rechercher un livre spécifique en utilisant son identifiant unique.
+Mise à Jour du Livre : Autorise les utilisateurs à modifier les détails d'un livre existant, tels que le titre, l'auteur, l'année et l'URL de la photo.
+Suppression de Livre : Permet aux utilisateurs de supprimer un livre de la base de données en utilisant son identifiant.
+Gestion des Utilisateurs :
+
+Inscription d'Utilisateur : Les nouveaux utilisateurs peuvent créer un compte en fournissant un nom d'utilisateur unique, une adresse e-mail et un mot de passe sécurisé.
+Connexion d'Utilisateur : Les utilisateurs enregistrés peuvent se connecter à leur compte en utilisant leur adresse e-mail et leur mot de passe pour accéder à toutes les fonctionnalités de l'application.
+Cette application offre une expérience conviviale pour la gestion des livres, tout en garantissant la sécurité et la confidentialité des informations des utilisateurs.
